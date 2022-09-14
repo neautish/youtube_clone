@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-#Youtube-Clone
 Youtube clone with ReactJS (API and MUI) \
 url: https://reactjs-youtube-clone.netlify.app/
 
